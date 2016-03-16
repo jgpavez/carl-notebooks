@@ -9,6 +9,7 @@ dependencies:
   - pandas
   - jupyter
   - pip:
+    - corner
     - git+https://github.com/scikit-learn/scikit-learn.git#egg=scikit-learn
     - git+https://github.com/Theano/Theano.git#egg=Theano
     - git+https://github.com/SheffieldML/GPy.git@devel#egg=GPy
